@@ -1,1 +1,1 @@
-WELCOME to CLINICAL Trails project. 
+WELCOME to CLINICAL Trials project. 
